@@ -16,8 +16,8 @@ More Topics Covered:
 * AWS Databases
 
 AWS Topics:
-* Compute
-* Database
-* Networking
-* Storage
+* [Compute](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics/Compute)
+* [Database](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics/Database)
+* [Networking](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics/Networking)
+* [Storage](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics/Storage)
 
