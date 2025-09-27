@@ -1,10 +1,4 @@
-<!-- 
-  ✨ Pro Tip: Replace "your-username" in links below with your actual GitHub username 
-  if you host these files in a separate repo (e.g., aws-restart-journey).
-  If they're in this same profile repo, keep as-is.
--->
-
-# 👋 Hi, I'm [Your Name]!  
+# 👋 Hi, I'm Joao Amaral!  
 ### 🌩️ Aspiring Cloud Practitioner | AWS re/Start Graduate  
 
 > “I’m building a career in cloud computing—one service, one lab, and one line of code at a time.”
@@ -12,7 +6,8 @@
 ---
 
 ## 🚀 About My AWS re/Start Journey
-I recently completed the **[AWS re/Start](https://aws.amazon.com/restart/)** program—a free, intensive 12-week training that equipped me with hands-on experience in **cloud architecture, security, automation, and core AWS services**.  
+I am in the process of completing my **[AWS re/Start](https://aws.amazon.com/restart/)** program, intensive 12-week training that equipped me with hands-on experience in the following topics:
+**cloud architecture, security, automation, Python Scripting for Automation and core AWS services**.  
 
 This portfolio documents my learning path, labs, and reflections as I prepare for the **AWS Certified Cloud Practitioner** exam and my first role in cloud technology.
 
@@ -59,9 +54,9 @@ I’m actively seeking opportunities as a:
 ---
 
 ## 📬 Let’s Connect!
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- ✉️ Email: your.email@example.com  
-- 🌐 [Portfolio Site](https://your-username.github.io) *(optional)*
+- 🔗 [LinkedIn](linkedin.com/in/joao-amaral-13216b215)  
+- ✉️ Email: johndivine987@gmail.com  
+- 🌐 [Portfolio Site](https://joaoamaraljj.github.io/My-AWS-re-Start-journey-/) *(optional)*
 
 > 💬 I’m open to **cloud internships**, **entry-level roles**, and **open-source contributions**. Feel free to reach out!
 
@@ -74,7 +69,7 @@ I’m actively seeking opportunities as a:
 
 ---
 
-> ⚡ **Fun Fact**: I once automated my morning routine with a Python script that checks the weather and brews coffee (well… it *tells* me to brew coffee 😄).
+> ⚡ **Fun Fact**: I once implemented Agentic AI to email me a daily weather report using N8n 😄).
 
 ---
 
