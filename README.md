@@ -16,7 +16,7 @@ This portfolio documents my learning path, labs, and reflections as I prepare fo
 ## 📚 Core AWS Learning Modules  
 I’ve broken down key cloud concepts into focused, easy-to-understand guides—complete with analogies, key services, and real-world relevance:
 
-- ☁️ **[AWS Compute](aws-compute.md)**  
+- ☁️ **[AWS Compute](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics/Compute)**  
   _EC2, Lambda, Auto Scaling, Serverless_
   
 - 🗄️ **[AWS Databases](aws-databases.md)**  
