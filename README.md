@@ -14,9 +14,15 @@ This portfolio documents my learning path, labs, and reflections as I prepare fo
 ---
 ## Repository Content:
 
-- [AWS Topics](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics)
-- [Certificates](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/Certificates)
-- [Projects](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/Projects)
+## Repository Content
+
+- <a href="https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics" target="_blank"><strong>AWS Topics</strong></a>
+- <a href="https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/Certificates" target="_blank"><strong>Certificates</strong></a>
+- <a href="https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/Projects" target="_blank"><strong>Projects</strong></a>
+
+- [**AWS Topics**](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics)
+- [**Certificates**](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/Certificates)
+- [**Projects**](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/Projects)
   
 ---
 
