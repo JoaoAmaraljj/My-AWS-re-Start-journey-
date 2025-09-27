@@ -19,13 +19,13 @@ I’ve broken down key cloud concepts into focused, easy-to-understand guides—
 - ☁️ **[AWS Compute](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics/Compute)**  
   _EC2, Lambda, Auto Scaling, Serverless_
   
-- 🗄️ **[AWS Databases](aws-databases.md)**  
+- 🗄️ **[AWS Databases](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics/Database)**  
   _RDS, DynamoDB, SQL vs. NoSQL, High Availability_
   
-- 🌐 **[AWS Networking](aws-networking.md)**  
+- 🌐 **[AWS Networking](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics/Networking)**  
   _VPC, Subnets, Security Groups, Route 53_
   
-- 💾 **[AWS Storage](aws-storage.md)**  
+- 💾 **[AWS Storage](https://github.com/JoaoAmaraljj/My-AWS-re-Start-journey-/tree/main/AWS%20Topics/Storage)**  
   _S3, EBS, EFS, Storage Classes, Durability_
 
 > 🔍 Each guide includes **hands-on practice notes**, **industry keywords**, and **official AWS resources**—designed to show both understanding and readiness for real cloud roles.
@@ -56,9 +56,9 @@ I’m actively seeking opportunities as a:
 ## 📬 Let’s Connect!
 - 🔗 [LinkedIn](linkedin.com/in/joao-amaral-13216b215)  
 - ✉️ Email: johndivine987@gmail.com  
-- 🌐 [Portfolio Site](https://joaoamaraljj.github.io/My-AWS-re-Start-journey-/) *(optional)*
+- 🌐 [Portfolio Site](https://joaoamaraljj.github.io/My-AWS-re-Start-journey-/)
 
-> 💬 I’m open to **cloud internships**, **entry-level roles**, and **open-source contributions**. Feel free to reach out!
+> 💬 I’m open to **cloud internships**, **entry-level roles**, and **Cloud Engineer**. Feel free to reach out!
 
 ---
 
