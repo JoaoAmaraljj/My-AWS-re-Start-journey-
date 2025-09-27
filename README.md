@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About My AWS re/Start Journey
-I am in the process of completing my **[AWS re/Start](https://aws.amazon.com/training/restart/)** program, intensive 12-week training that equipped me with hands-on experience in the following topics:
+I am in the process of completing my **[AWS re/Start](https://aws.amazon.com/training/restart/)** program at [Praesignis](https://praesignis.com/?srsltid=AfmBOoqD0hc8eBI2eIoixvHt0ilWayKmAPYa14N6N9yGQPiWQxHQoLIg), intensive 12-week training that equipped me with hands-on experience in the following topics:
 **cloud architecture, security, automation, Python Scripting for Automation and core AWS services**.  
 
 This portfolio documents my learning path, labs, and reflections as I prepare for the **AWS Certified Cloud Practitioner** exam and my first role in cloud technology.
