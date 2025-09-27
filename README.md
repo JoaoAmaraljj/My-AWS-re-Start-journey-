@@ -54,7 +54,7 @@ I’m actively seeking opportunities as a:
 ---
 
 ## 📬 Let’s Connect!
-- 🔗 [LinkedIn](linkedin.com/in/joao-amaral-13216b215)  
+- 🔗 [LinkedIn](https://linkedin.com/in/joao-amaral-13216b215)  
 - ✉️ Email: johndivine987@gmail.com  
 - 🌐 [Portfolio Site](https://joaoamaraljj.github.io/My-AWS-re-Start-journey-/)
 
