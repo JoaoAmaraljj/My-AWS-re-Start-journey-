@@ -12,6 +12,13 @@ I am in the process of completing my **[AWS re/Start](https://aws.amazon.com/tra
 This portfolio documents my learning path, labs, and reflections as I prepare for the **AWS Certified Cloud Practitioner** exam and my first role in cloud technology.
 
 ---
+## Repository Content:
+
+- AWS Topics
+- Certificates
+- Projects
+  
+---
 
 ## 📚 Core AWS Learning Modules  
 I’ve broken down key cloud concepts into focused, easy-to-understand guides—complete with analogies, key services, and real-world relevance:
