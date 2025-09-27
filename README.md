@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joao Amaral!  
+# 👋 Hi, I'm Joao Amaral!
 ### 🌩️ Aspiring Cloud Practitioner | AWS re/Start Graduate  
 
 > “I’m building a career in cloud computing—one service, one lab, and one line of code at a time.”
