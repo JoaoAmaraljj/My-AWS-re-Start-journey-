@@ -68,4 +68,4 @@ Ideal for roles such as:
 
 ---
 
-> 💡 *Certification files (PDFs or images) are stored in this folder for verification. All learning was conducted in alignment with AWS Well-Architected Framework principles.*
+> 💡 *This folder contains my certification files (PDFs or images) . All learning was conducted in alignment with AWS Well-Architected Framework principles.*
