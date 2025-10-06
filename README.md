@@ -6,8 +6,8 @@
 ---
 
 ## 🚀 About My AWS re/Start Journey
-I am in the process of completing my **[AWS re/Start](https://aws.amazon.com/training/restart/)** program at [Praesignis](https://praesignis.com/?srsltid=AfmBOoqD0hc8eBI2eIoixvHt0ilWayKmAPYa14N6N9yGQPiWQxHQoLIg), intensive 12-week training that equipped me with hands-on experience in the following topics:
-**cloud architecture, security, automation, Python Scripting for Automation and core AWS services**.  
+I have completed my **[AWS re/Start](https://aws.amazon.com/training/restart/)** program at [Praesignis](https://praesignis.com/?srsltid=AfmBOoqD0hc8eBI2eIoixvHt0ilWayKmAPYa14N6N9yGQPiWQxHQoLIg), intensive 12-week training that equipped me with hands-on experience in the following topics:
+**cloud architecture, security, automation, Python Scripting for Automation and core AWS services**.   
 
 This portfolio documents my learning path, labs, and reflections as I prepare for the **AWS Certified Cloud Practitioner** exam and my first role in cloud technology.
 
@@ -64,6 +64,7 @@ I’m actively seeking opportunities as a:
 - 🔗 [LinkedIn](https://linkedin.com/in/joao-amaral-13216b215)  
 - ✉️ Email: johndivine987@gmail.com  
 - 🌐 [Portfolio Site](https://joaoamaraljj.github.io/My-AWS-re-Start-journey-/)
+- [![AWS re/Start Graduate](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cee73a9f-96e2-4c38-8877-19c057d36d55" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)](Badge Verification URL)
 
 > 💬 I’m open to **cloud internships**, **entry-level roles**, and **Cloud Engineer**. Feel free to reach out!
 
