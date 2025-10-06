@@ -64,7 +64,7 @@ I’m actively seeking opportunities as a:
 - 🔗 [LinkedIn](https://linkedin.com/in/joao-amaral-13216b215)  
 - ✉️ Email: johndivine987@gmail.com  
 - 🌐 [Portfolio Site](https://joaoamaraljj.github.io/My-AWS-re-Start-journey-/)
-- [AWS re/Start Graduate](https://www.credly.com/users/joao-caetano-furtunato-amaral)
+- [AWS re/Start Graduate Badge](https://www.credly.com/users/joao-caetano-furtunato-amaral)
 
 > 💬 I’m open to **cloud internships**, **entry-level roles**, and **Cloud Engineer**. Feel free to reach out!
 
